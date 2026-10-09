@@ -1,0 +1,4 @@
+# Preserve judged-output bytes so SHA256 checks survive Windows checkouts.
+data/eval/*.jsonl text eol=lf
+# Split fingerprints cover exact Parquet bytes.
+*.parquet binary

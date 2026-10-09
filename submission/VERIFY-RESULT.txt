@@ -1,0 +1,15 @@
+==> Verifying submission at E:\VinAI\Phase 2\Day 7\K4-L3-Track3-Day22-DPO-ORPO-Alignment
+
+Optional (bonus):
+  · NB3b variants
+  · NB5 GGUF
+  · NB6 benchmark
+  · NB7 GRPO
+  · β-sweep
+
+✗ Submission not ready:
+  - WRONG REF  adapters/dpo was trained on '/kaggle/working/lab22/models/sft-merged', not models\sft-merged: the DPO reference must be this repo's SFT model (if the repo moved, rerun NB3 here).
+
+Fix the items above and rerun `make verify`. See rubric.md.
+
+Exit code: 1
